@@ -269,4 +269,8 @@
     <string name="back_height_title">Back height</string>
     <string name="back_height_message">Amount of screen height used as a touchable region for back gesture</string>
 
+    <!-- SomethingOS maintainer -->
+    <string name="maintainer">(Who to blame) Maintainer</string>
+    <string name="something_maintainer" translatable="false">Akshat</string>
+
 </resources>
